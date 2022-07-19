@@ -1,0 +1,12 @@
+			Resultados - Extração de Atributos:
+			------------------------------------------------
+
+Cor: 92.75   %
+
+Gradiente: 43.875  %
+
+Textura: 82.875  %
+
+Forma: 49.875  %
+
+Atributos Combinados: 92.625  %
